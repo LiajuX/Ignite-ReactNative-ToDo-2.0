@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./src/assets/logo.svg" alt="PlantManager" width="220px">
+  <img src="./src/assets/logo.svg" alt="PlantManager" width="280px">
 </h1>
 
 <p align="center">  
@@ -39,9 +39,9 @@ This is the second challenge of the React Native trail of [Ignite](https://rocke
 The 2nd challenge was a 2.0 version of the to-do app created [previously](https://github.com/LiajuX/Ignite-ReactNative-ToDo) using context and adding new features. By the end of the challenge, the user should also be able to edit tasks, besides creating, completing, and deleting them.
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/53796370/127193514-dd624c8e-d69d-466f-8dd4-c55174917828.png" alt="Home" width="250">
-  <img src="https://user-images.githubusercontent.com/53796370/127193507-8b438eb3-3a46-4e73-82aa-d3da515d5e1a.png" alt="Typing" width="250">
-  <img src="https://user-images.githubusercontent.com/53796370/127193518-f6f6f932-3c0a-4a81-af3b-e2fa845e388a.png" alt="New task add" width="250">
+  <img src="https://user-images.githubusercontent.com/53796370/127195849-c9afc724-2c88-4de1-9a5c-3e59fc04c882.png" alt="Editing" width="250">
+  <img src="https://user-images.githubusercontent.com/53796370/127195847-83889b86-c1e6-4c14-a98c-486d1ceaba7d.png" alt="Typing" width="250">
+  <img src="https://user-images.githubusercontent.com/53796370/127195844-bbfd3403-2082-4c1d-9e4c-aec5704e3b0b.png" alt="New task add" width="250">
 </div>
 
 <br>
